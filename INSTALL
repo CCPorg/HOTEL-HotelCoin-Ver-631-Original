@@ -1,0 +1,9 @@
+Building HotelCoin
+
+See doc/readme-qt.rst for instructions on building HotelCoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HotelCoin.
+
+See doc/build-*.txt for instructions on building HotelCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of HotelCoin.
